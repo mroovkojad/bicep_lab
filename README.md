@@ -1,9 +1,10 @@
-# This repo corresponds to **Microsoft Learn** Excersise about **Bicep Templates**
- [Exercise - Add parameters and variables to your Bicep template](https://learn.microsoft.com/en-us/training/modules/build-first-bicep-template/-exercise-add-parameters-variables-bicep-template?pivots=powershell)
+# This repo expands on *Microsoft Learn* web app excersises
+- [Exercise - Add parameters and variables to your Bicep template](https://learn.microsoft.com/en-us/training/modules/build-first-bicep-template/-exercise-add-parameters-variables-bicep-template?pivots=powershell)
+- [Create a web app in the Azure portal](https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/2-create-a-web-app-in-the-azure-portal)
 
 
 # Goals and motivations
-
+- Automate as much as possible of example app deployment
 - Get as much learning potential from this excersise and lab
 - Automate both creating and removing resources
 - Provide more resiliance
