@@ -9,3 +9,14 @@
 - Provide more resiliance
   - e.g. default **Location** provided in lab sometimes fails
   - repo scripts try out several locations to deploy the app automatically
+
+# Files and structure
+
+- `main.bicep`
+  -  File based on lab excersise, extended when needed
+- `ConnectLab.ps1`
+  - Script connecting terminal (device) to azure
+- `CreateApp.ps1`
+  - main script that creates resources from `main.bicep` template
+- `DeleteBicepResources.ps1`
+  - script for deleting resources crated by the `main.bicep` template
